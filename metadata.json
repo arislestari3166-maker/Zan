@@ -1,0 +1,6 @@
+{
+  "name": "RoboNeo Image-to-Image V3.0",
+  "description": "Professional Image-to-Image interface for RoboNeo with concurrent job processing, account pool management, and real-time polling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
